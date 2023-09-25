@@ -1,0 +1,7 @@
+api/.env
+api/node_modules
+api/uploads
+client/node_modules
+client/yarn-error.log
+api/yarn-error.log
+api/yarn.lock
