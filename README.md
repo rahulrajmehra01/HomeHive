@@ -14,76 +14,91 @@ dynamic category-based filtering, enhancing user experience by facilitating tail
 
 #### Demo video
 
-https://github.com/rahulrajmehra01/HomeHive/assets/114878418/e439733f-cbeb-4329-a80a-def95da4cc88
+
+
+https://github.com/rahulrajmehra01/HomeHive/assets/114878418/40f1313e-072c-43d2-8dd7-4f019267a701
+
+
 
 #### SnapShots:
 
 
-![4](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/3ecaa116-a497-4d93-beed-552a980c27fe)
+![1](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/93d090ac-f6ea-42b6-ac2f-a255a47e9d14)
 
 ----
 
-![5](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/6232550b-81a6-4b52-9c10-7ac615cdae9b)
+![2](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/96a6b960-9744-4478-ab45-6ae5895dcf62)
 
 ----
 
-![1](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/f5e91321-d16b-4495-8197-86993509e26a)
+![3](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/570dc4f1-e54e-40d1-80b1-f05548873823)
 
 ----
 
-![2](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/af8d6675-e41d-4af7-b9a4-f6bbd28b1c5d)
+![4](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/2f49bd27-ccc2-42f5-a73d-9853eeeeeade)
 
 ----
 
-![3](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/53db360c-7b65-4cf6-a091-de7fc180d87e)
+![5](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/f013c4e0-1059-43e0-b9eb-a747ea046ae5)
 
 ----
 
-![6](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/5886817e-6019-4efa-aa67-c25e6f0bac4d)
+![6](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/dbca18ba-0276-4ec2-adc4-55ec267109b6)
 
 ----
 
-![10](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/a1c19cea-4593-4674-809e-e656a505922e)
+![10](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/21cb2a10-dab6-4fa0-8fe6-a0291b6a1ab9)
 
 ----
 
-![14](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/3bdeeac9-15e2-48aa-8463-fe9bf458ca71)
+![11](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/5cb61be3-5628-41b5-9be8-4de0f1e61e9a)
 
 ----
 
-![11](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/fe83dc16-31dc-4e24-bfca-d64d921535f7)
+![12](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/9c92f258-00ef-4e1a-bec8-986b5282be24)
 
 ----
 
-![13](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/7bd9b725-a422-453b-addc-9ffcac2574eb)
+![13](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/17bf4d58-4d9c-40ec-b4d5-49a8af416a05)
 
 ----
 
-![12](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/4c9d25a8-74f0-485c-927f-31338e3fd10b)
+![14](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/2a19b7d8-cc1b-462e-be55-85c0a52c218b)
+
+----
+
+![15](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/463148ce-3780-450f-a88a-b23cff322da9)
+
+----
+
+![16](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/52b3c407-cc03-47d9-81e0-3c990a8fc832)
+
+----
+
+![17](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/3e3a0844-dc1c-4e6c-9b4e-48e94df1d0c0)
+
+----
+
+![18](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/151f7b84-8803-4811-a0fa-76f515e7071c)
+
+----
+
+![19](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/4050deed-b5e2-426f-9134-2a0b1f3959cf)
+
+----
 
 
-![15](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/581be832-4802-4492-8b81-c77369d50717)
+![20](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/380f924c-81f7-4216-aff1-7a4d42ada4e9)
+
+----
 
 
-![16](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/54da114b-e497-4fe1-aacc-ea7a7636d82e)
+![21](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/f72319fe-49fe-4e0b-8e0d-cb848a0121ae)
+
+----
 
 
-![17](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/314014ff-d8ad-4d03-83d3-af8e1839c8e9)
+![22](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/eafe2845-8494-455b-beb6-f70a517fd769)
 
-
-![18](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/7f4ac518-f6a2-4111-b463-82e2928aa956)
-
-
-![19](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/b1bd47be-564a-43d5-a861-40beda74ee37)
-
-
-![20](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/4932a943-7b65-431a-ab09-5ce2535d2905)
-
-
-![21](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/fe973567-b971-4848-8b50-6cc79fae139e)
-
-
-![22](https://github.com/rahulrajmehra01/HomeHive/assets/114878418/45ef45bc-594f-4f7c-b983-8fdc88683a58)
-
-
+----
 
